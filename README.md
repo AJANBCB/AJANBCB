@@ -16,8 +16,9 @@
 
 <details>
 <summary>:bulb: Most Used Languages</summary>
-<img src="https://github.com/anuraghazra/github-readme-stats" >
+<img src="https://github.com/AJANBCB/github-readme-stats" >
 </details>
+
 
 
 

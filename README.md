@@ -1,16 +1,25 @@
-### Hi there 👋
+<img = src="https://media.giphy.com/media/pO4UHglOY2vII/source.gif" align="right" width="400" height="250">
 
-<!--
-**AJANBCB/AJANBCB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## hi there, I'am Bugra! 
 
-Here are some ideas to get you started:
+### I'am a student and learning to code.
+<font color="gray">I'am learning python and c#</font>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Reach Out Me
+[<img height="22" width="22" src="https://unpkg.com/simple-icons@v5/icons/Discord.svg" align"left" />][Discord]
+
+### Tech I Use
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width"25" height"25">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width"25" height"25">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" width"25" height"25">
+
+
+<details>
+<summary>:bulb: Most Used Languages</summary>
+<img src="https://github.com/anuraghazra/github-readme-stats" >
+</details>
+
+
+
+[Discord]: https://discord.gg/umURW2nyvk
+
